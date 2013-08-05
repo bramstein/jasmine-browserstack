@@ -1,0 +1,17 @@
+{
+  "name": "jasmine-browserstack",
+  "version": "0.1.0",
+  "description": "A Jasmine reporter that can be used to run Jasmine tests automatically on BrowserStack",
+  "main": "lib/jasmine-browserstack.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bramstein/jasmine-browserstack.git"
+  },
+  "keywords": [
+    "Jasmine",
+    "reporter",
+    "BrowserStack"
+  ],
+  "author": "Bram Stein <b.l.stein@gmail.com> (http://www.bramstein.com)",
+  "license": "BSD"
+}
