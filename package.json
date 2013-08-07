@@ -1,6 +1,6 @@
 {
   "name": "jasmine-browserstack",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A Jasmine reporter that can be used to run Jasmine tests automatically on BrowserStack",
   "main": "lib/jasmine-browserstack.js",
   "repository": {
