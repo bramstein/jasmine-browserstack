@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This module has been deprecated and is no longer maintained.
+
 ## Automatic browser testing with Jasmine and BrowserStack
 
 This Jasmine reporter allows you to run your unit tests automatically on one or multiple BrowserStack instances.
